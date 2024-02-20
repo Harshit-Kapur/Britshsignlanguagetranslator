@@ -1,0 +1,26 @@
+<annotation>
+	<folder>I</folder>
+	<filename>I.bada78c8-cc35-11ee-8d8a-93d054756acc.jpg</filename>
+	<path>C:\Tensorflow Object Detection\TFODCourse\Tensorflow\workspace\images\collectedimages\I\I.bada78c8-cc35-11ee-8d8a-93d054756acc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>367</ymin>
+			<xmax>607</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

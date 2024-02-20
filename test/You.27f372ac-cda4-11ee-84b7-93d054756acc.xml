@@ -1,0 +1,26 @@
+<annotation>
+	<folder>You</folder>
+	<filename>You.27f372ac-cda4-11ee-84b7-93d054756acc.jpg</filename>
+	<path>C:\OBJ\TFODCourse\Tensorflow\workspace\images\collectedimages\You\You.27f372ac-cda4-11ee-84b7-93d054756acc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>273</ymin>
+			<xmax>535</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

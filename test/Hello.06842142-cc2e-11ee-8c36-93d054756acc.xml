@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hello</folder>
+	<filename>Hello.06842142-cc2e-11ee-8c36-93d054756acc.jpg</filename>
+	<path>C:\Tensorflow Object Detection\TFODCourse\Tensorflow\workspace\images\collectedimages\Hello\Hello.06842142-cc2e-11ee-8c36-93d054756acc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>77</ymin>
+			<xmax>226</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
