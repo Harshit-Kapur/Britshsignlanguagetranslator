@@ -8,7 +8,7 @@ The British Sign Language used in this project:<br>
 **I Love You**❤<br>
 **Thank you**🙌
 
-The image annotations is done with the help of LabelImage file which you can use by running the code present in the __Image Collection python file__.<br>
+The image annotations is done with the help of LabelImage file which can be used by running the code present in the __Image Collection python file__.<br>
 
 The model was made with help of [Nicholas Renotte tutorial](https://www.youtube.com/watch?v=yqkISICHH-U). Thank you sir for inspiring many students like me.
 
