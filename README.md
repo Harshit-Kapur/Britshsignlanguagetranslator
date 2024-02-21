@@ -15,6 +15,6 @@ The model was made with help of [Nicholas Renotte tutorial](https://www.youtube.
 # TEST DATASET OUTPUT
 ![image](https://github.com/Harshit-Kapur/Britshsignlanguagetranslotor/assets/135225106/644dcaaa-2a0f-4cda-9c0e-3a37b9f61488)
 
-# DEMO
+# DEMO VIDEO
 https://github.com/Harshit-Kapur/Britshsignlanguagetranslotor/assets/135225106/4553c763-d575-4d1e-ab94-49adaf031141
 
